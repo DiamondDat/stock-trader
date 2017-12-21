@@ -1,4 +1,4 @@
-# vue-cli
+# Stock Trader
 
 > Final Project from Udemy Vue Complete Course
 
